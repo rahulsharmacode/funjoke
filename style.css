@@ -1,0 +1,32 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+    margin-top: 50px;
+}
+button {
+    border-radius: 5px;
+    color: white;
+    background-color:orange;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#button:hover {background-color: #7d9b7e}
+
+div  {
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: white;
+    padding: 50px;
+    
+
+    
+}
+div #joke {
+    
+    border: 0px ;
+    
+    border-radius: 5px;
+    padding: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
